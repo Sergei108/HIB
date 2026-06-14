@@ -7,6 +7,8 @@
 
 ![Next.js](https://img.shields.io/badge/Next.js-14-000?logo=nextdotjs) ![React](https://img.shields.io/badge/React-18-149eca?logo=react) ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178c6?logo=typescript) ![Tailwind](https://img.shields.io/badge/Tailwind-3-38bdf8?logo=tailwindcss) ![License](https://img.shields.io/badge/license-MIT-22d3ee) ![Status](https://img.shields.io/badge/status-MVP%20ready-22d3ee)
 
+🚀 **Живой деплой:** [https://sk108projects.ru/hib/](https://sk108projects.ru/hib/)
+
 ---
 
 ## Скриншоты
